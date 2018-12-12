@@ -26,7 +26,7 @@
   因为没有.project文件和classpath文件，不能直接使用General的导入项目
 
   File -> import -> Maven(Existing Maven Projects)
-  ![eclipse](http://60.205.208.120:17755/image/eclipse_import_1.PNG)
+  [图片预览](http://60.205.208.120:17755/image/eclipse_import_1.PNG)
 
   导入后需要下载JAR包,等待一会即可
 
