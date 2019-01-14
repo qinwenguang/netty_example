@@ -1,0 +1,29 @@
+resources:
+  APPId_order: KBD1YBB8vF
+  secretKey_order: YKCrnThty1CNFdXd3J4uQAxcP7BmeGym
+  APPId_comm: KBD1YBB8vF
+  secretKey_comm: YKCrnThty1CNFdXd3J4uQAxcP7BmeGym
+  APPId_number: KBD1YBB8vF
+  secretKey_number: YKCrnThty1CNFdXd3J4uQAxcP7BmeGym
+  APPId_term: KBD1YBB8vF
+  secretKey_term: YKCrnThty1CNFdXd3J4uQAxcP7BmeGym
+  url:
+    orderPay: http://10.245.34.209:8000/api/newbuy/orderCenter/orderPay/v1
+    orderDetailsQuery: http://10.245.34.209:8000/api/newbuy/orderCenter/orderDetailsQuery/v1
+    orderReceive: http://10.245.34.209:8000/api/newbuy/orderCenter/orderReceiveBack/v1
+    orderCancel: http://10.245.34.209:8000/api/newbuy/orderCenter/orderCancel/v1
+    multiSearch: http://10.245.34.209:8000/api/newbuy/proCoCenter/multiSearch/v1
+    commFee: http://10.245.34.209:8000/api/newbuy/proCoCenter/commFee/v1
+    commQuery: http://10.245.34.209:8000/api/newbuy/proCoCenter/commQuery/v1
+    commSearch: http://10.245.34.209:8000/api/newbuy/proCoCenter/commSearch/v1
+    orderReturnReceive: http://10.245.34.209:8000/api/newbuy/orderCenter/orderReturnReceive/v1
+    orderExchangeReceive: http://10.245.34.209:8000/api/newbuy/orderCenter/orderExchangeReceive/v1
+    orderQuery: http://10.245.34.209:8000/api/newbuy/orderCenter/orderQuery/v1
+    orderAddressQuery: http://10.245.34.209:8000/api/newbuy/orderCenter/orderAddressQuery/v1
+    qryCommStock: http://10.245.34.209:8000/api/newbuy/proCoCenter/qryCommStock/v1
+    queryGoodNum: http://10.245.16.208:8000/api/resourceCenter/numberCenter/queryGoodNum/v1
+    qryChkTerm: http://10.245.34.209:8000/api/newbuy/nrResCenter/qryChkTerm/v1
+    termSale: http://10.245.34.209:8000/api/newbuy/nrResCenter/termSale/v1
+    saleOrderReplesh: http://10.245.34.209:8000/api/newbuy/nrResCenter/saleOrderReplesh/v1
+    qryCbGoodNum: http://10.245.16.208:8000/api/resourceCenter/numberCenter/CBQueryGoodNum/v1
+    newTermCheck：http://10.245.34.209:8000/api/newbuy/nrResCenter/qryChkTerm/v1
